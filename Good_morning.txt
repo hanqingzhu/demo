@@ -1,2 +1,3 @@
 good morning
 Have a nice day!
+Git 3rd line added
