@@ -3,7 +3,7 @@
 cd data/clean
 
 # Fix Guinea file -we just want the middle 12 rows
-echo "fixing Guinea.cc.txt file
+echo "fixing Guinea.cc.txt file"
 head -n 24 Guinea.cc.txt | tail -n 12 > Guinea.cc.txt.clean
 mv -v Guinea.cc.txt.clean Guinea.cc.txt
 
